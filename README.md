@@ -43,44 +43,55 @@ A beautifully designed Flutter application for browsing and exploring the **late
 
 ## 📱 UI Previews
 
-### 🖼️ Onboarding
+### 🖼️ Onboarding Screens
 
-<img src="assets/screen_shoots/OnBoarding.png" width="200"/>
-<img src="assets/screen_shoots/OnBoarding (1).png" width="200"/>
-<img src="assets/screen_shoots/OnBoarding (2).png" width="200"/>
-<img src="assets/screen_shoots/OnBoarding (3).png" width="200"/>
-
----
-
-### 🖼️ Authentication Screens
-
-<img src="assets/screen_shoots/Login.png" width="200"/>
-<img src="assets/screen_shoots/Register.png" width="200"/>
-<img src="assets/screen_shoots/Forget Password.png" width="200"/>
+<table>
+  <tr>
+    <td><img src="assets/screen_shoots/Onoarding 1.png" width="400"/></td>
+    <td><img src="assets/screen_shoots/Onoarding 2.png" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
-### 🖼️ Home & Movie Details
+### 🖼️ Authentication
 
-<img src="assets/screen_shoots/Home.png" width="200"/>
-<img src="assets/screen_shoots/Movie Details.png" width="200"/>
+<table>
+  <tr>
+    <td><img src="assets/screen_shoots/auth.png" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
-### 🖼️ Search & Browse
+### 🖼️ Home Screen
 
-<img src="assets/screen_shoots/Search.png" width="200"/>
-<img src="assets/screen_shoots/Search (1).png" width="200"/>
-<img src="assets/screen_shoots/Browse.png" width="200"/>
+<table>
+  <tr>
+    <td><img src="assets/screen_shoots/home.png" width="400"/></td>
+  </tr>
+</table>
+
+---
+
+### 🖼️ Search
+
+<table>
+  <tr>
+    <td><img src="assets/screen_shoots/search.png" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 🖼️ Profile & Update
 
-<img src="assets/screen_shoots/Profile.png" width="200"/>
-<img src="assets/screen_shoots/Profile (1).png" width="200"/>
-<img src="assets/screen_shoots/Update Profile.png" width="200"/>
-<img src="assets/screen_shoots/Update Profile (1).png" width="200"/>
+<table>
+  <tr>
+    <td><img src="assets/screen_shoots/profile.png" width="400"/></td>
+    <td><img src="assets/screen_shoots/update profile .png" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
