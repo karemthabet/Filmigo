@@ -45,42 +45,42 @@ A beautifully designed Flutter application for browsing and exploring the **late
 
 ### 🖼️ Onboarding
 
-<img src="assets/screen_shoots/OnBoarding.png" width="450"/>
-<img src="assets/screen_shoots/OnBoarding (1).png" width="450"/>
-<img src="assets/screen_shoots/OnBoarding (2).png" width="450"/>
-<img src="assets/screen_shoots/OnBoarding (3).png" width="450"/>
+<img src="assets/screen_shoots/OnBoarding.png" width="200"/>
+<img src="assets/screen_shoots/OnBoarding (1).png" width="200"/>
+<img src="assets/screen_shoots/OnBoarding (2).png" width="200"/>
+<img src="assets/screen_shoots/OnBoarding (3).png" width="200"/>
 
 ---
 
 ### 🖼️ Authentication Screens
 
-<img src="assets/screen_shoots/Login.png" width="450"/>
-<img src="assets/screen_shoots/Register.png" width="450"/>
-<img src="assets/screen_shoots/Forget Password.png" width="450"/>
+<img src="assets/screen_shoots/Login.png" width="200"/>
+<img src="assets/screen_shoots/Register.png" width="200"/>
+<img src="assets/screen_shoots/Forget Password.png" width="200"/>
 
 ---
 
 ### 🖼️ Home & Movie Details
 
-<img src="assets/screen_shoots/Home.png" width="450"/>
-<img src="assets/screen_shoots/Movie Details.png" width="450"/>
+<img src="assets/screen_shoots/Home.png" width="200"/>
+<img src="assets/screen_shoots/Movie Details.png" width="200"/>
 
 ---
 
 ### 🖼️ Search & Browse
 
-<img src="assets/screen_shoots/Search.png" width="450"/>
-<img src="assets/screen_shoots/Search (1).png" width="450"/>
-<img src="assets/screen_shoots/Browse.png" width="450"/>
+<img src="assets/screen_shoots/Search.png" width="200"/>
+<img src="assets/screen_shoots/Search (1).png" width="200"/>
+<img src="assets/screen_shoots/Browse.png" width="200"/>
 
 ---
 
 ### 🖼️ Profile & Update
 
-<img src="assets/screen_shoots/Profile.png" width="450"/>
-<img src="assets/screen_shoots/Profile (1).png" width="450"/>
-<img src="assets/screen_shoots/Update Profile.png" width="450"/>
-<img src="assets/screen_shoots/Update Profile (1).png" width="450"/>
+<img src="assets/screen_shoots/Profile.png" width="200"/>
+<img src="assets/screen_shoots/Profile (1).png" width="200"/>
+<img src="assets/screen_shoots/Update Profile.png" width="200"/>
+<img src="assets/screen_shoots/Update Profile (1).png" width="200"/>
 
 ---
 
@@ -91,13 +91,6 @@ A beautifully designed Flutter application for browsing and exploring the **late
 - Flutter SDK (latest stable)
 - Android Studio / VSCode / Xcode
 - A connected device or emulator
-
----
-
-## 💡 Contribution
-
-Feel free to **fork** the project and **submit a pull request**.  
-For major changes, please **open an issue first** to discuss what you would like to change.
 
 ---
 
