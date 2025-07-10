@@ -1,4 +1,4 @@
-# 🎬 Movies App
+# 🎬 Filmigo
 
 A beautifully designed Flutter application for browsing and exploring the **latest and most popular movies**, built with **Clean Architecture**, **MVVM pattern**, and **BLoC** for state management.
 
@@ -43,17 +43,44 @@ A beautifully designed Flutter application for browsing and exploring the **late
 
 ## 📱 UI Previews
 
-### 🖼️ Authentication
-![movies mookup1](https://github.com/khalidabdelrazk/photos/blob/main/movies%20mookup1.png?raw=true)
+### 🖼️ Onboarding
 
-### 🖼️ Root
-![movies mookup2](https://github.com/khalidabdelrazk/photos/blob/main/movies%20mookup2.png?raw=true)
+<img src="assets/screen_shoots/OnBoarding.png" width="450"/>
+<img src="assets/screen_shoots/OnBoarding (1).png" width="450"/>
+<img src="assets/screen_shoots/OnBoarding (2).png" width="450"/>
+<img src="assets/screen_shoots/OnBoarding (3).png" width="450"/>
 
-### 🖼️ Profile
-![movies mookup3](https://github.com/khalidabdelrazk/photos/blob/main/movies%20mookup3.png?raw=true)
+---
 
-### 🖼️ Movie Details
-![movies mookup4](https://github.com/khalidabdelrazk/photos/blob/main/movies%20mookup4.png?raw=true)
+### 🖼️ Authentication Screens
+
+<img src="assets/screen_shoots/Login.png" width="450"/>
+<img src="assets/screen_shoots/Register.png" width="450"/>
+<img src="assets/screen_shoots/Forget Password.png" width="450"/>
+
+---
+
+### 🖼️ Home & Movie Details
+
+<img src="assets/screen_shoots/Home.png" width="450"/>
+<img src="assets/screen_shoots/Movie Details.png" width="450"/>
+
+---
+
+### 🖼️ Search & Browse
+
+<img src="assets/screen_shoots/Search.png" width="450"/>
+<img src="assets/screen_shoots/Search (1).png" width="450"/>
+<img src="assets/screen_shoots/Browse.png" width="450"/>
+
+---
+
+### 🖼️ Profile & Update
+
+<img src="assets/screen_shoots/Profile.png" width="450"/>
+<img src="assets/screen_shoots/Profile (1).png" width="450"/>
+<img src="assets/screen_shoots/Update Profile.png" width="450"/>
+<img src="assets/screen_shoots/Update Profile (1).png" width="450"/>
 
 ---
 
@@ -72,19 +99,20 @@ A beautifully designed Flutter application for browsing and exploring the **late
 Feel free to **fork** the project and **submit a pull request**.  
 For major changes, please **open an issue first** to discuss what you would like to change.
 
+---
 
 ### Installation
 
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/khalidabdelrazk/movies_app.git
+    git clone https://github.com/khalidabdelrazk/filmigo.git
     ```
 
 2.  **Navigate to the project directory**:
 
     ```bash
-    cd movies_app
+    cd filmigo
     ```
 
 3.  **Get Flutter dependencies**:
@@ -102,8 +130,6 @@ For major changes, please **open an issue first** to discuss what you would like
 ---
 
 ## 🧩 Packages Used
-
-The following key packages were utilized in the development of this application:
 
 ```yaml
 dependencies:
@@ -133,6 +159,3 @@ dependencies:
   path_provider: ^2.1.5
   photo_view: ^0.14.0
   url_launcher: ^6.2.6
-
-
-
